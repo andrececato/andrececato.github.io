@@ -1,0 +1,25 @@
+*{
+  margin:  0px;
+  padding: 0px;
+}
+
+.container{
+  padding-left: 16px;
+  padding-right: 16px;
+
+}
+.paragrafo{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+p{
+  margin-bottom: 15px;
+}
+.centralizar{
+    text-align: center;
+}
+.autor{
+    text-align: right;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
