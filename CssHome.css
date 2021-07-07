@@ -9,7 +9,7 @@
     background-image: url(background/375989.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 15px;
+    padding: 0px; /* Valor original era 15px ( mudado 06/07/2021 = ALTERAÇÕES MENU CSS*/
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.822);
 }
 /*Formata a imagem dentro da classe cabeçalho*/
@@ -113,7 +113,7 @@ nav{
     align-items: center;
     vertical-align: middle;
     font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif; /*fontes de letra que peguei do video, pode ser qualquer uma*/
-    background-color: #FAA94D;
+    background-color: #ff751a; /* valor original #FAA94D (Mudado ALTERAÇÃO MENU CSS 06/07/2021)*/
     height: 8vh; /* Media com base na porcentagem da tela, ou seja, vai ocupar 8% da tela, em qualquer tela*/
     }
     nav a{
@@ -157,7 +157,7 @@ nav{
         right: 0;
         width: 50vw; /* 50% de largura da tela*/
         height: 92vh;
-        background-color: #FAA94D;
+        background-color: #ff751a; /* valor original #FAA94D (Mudado ALTERAÇÃO MENU CSS 06/07/2021)*/
         flex-direction: column; /*vai deixar os elementos que estavam um do lado do outro como uma coluna*/
         align-items: center;
         vertical-align:middle;
