@@ -30,25 +30,19 @@ article{
 article:hover{
   transform: translateY(-3px);
 }
-article p {
+.nome_coluna {
+  margin-top: 5px;
   text-align: center;
-  background-color: whitesmoke;
   max-width: 55%;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Helvetica, Arial, sans-serif;  
   font-size: smaller;
-  background-size: 2px;
 }
-article a{
+.descricao{
   text-align: center;
   text-decoration: none;
-  background-color: whitesmoke;
-  color: #BD6502;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: x-large;
-  background-size: 2px;
-}
-article a:hover{
-  color: goldenrod;
+  color: #000000;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: large; 
 }
 .conteúdo{
   min-height: 500px; 
